@@ -13,39 +13,43 @@
     />
   </head>
   <body
-    class="bg-zinc-900 text-white bg-[url('/assets/background.jpg')] bg-auto bg-cover bg-no-repeat w-screen"
+    class="bg-zinc-900 text-white bg-[url('/assets/background.jpg')] bg-cover bg-no-repeat w-screen"
   >
     <div class="p-12">
       <header
         class="backdrop-blur-lg bg-zinc-900/50 rounded-3xl flex justify-between h-20 items-center px-12 py-5"
       >
         <div class="">
-          <img class="w-[8rem]" src="./assets/Logo.png" alt="logotipo hbomax" />
+          <img
+            class="w-[8rem] cursor-pointer"
+            src="./assets/Logo.png"
+            alt="logotipo hbomax"
+          />
         </div>
 
         <div class="">
           <nav>
             <ul class="flex gap-12">
               <a
-                class="transition-all-ease duration-75 hover:text-slate-500"
+                class="transition-all-ease-in-out duration-75 hover:text-[#A13DEB]"
                 href="#"
               >
                 <li>Movies</li>
               </a>
               <a
-                class="transition-all-ease duration-75 hover:text-slate-500"
+                class="transition-all-ease-in-out duration-75 hover:text-[#A13DEB]"
                 href="#"
               >
                 <li>TV Shows</li>
               </a>
               <a
-                class="transition-all-ease duration-75 hover:text-slate-500"
+                class="transition-all-ease-in-out duration-75 hover:text-[#A13DEB]"
                 href="#"
               >
                 <li>Animations</li>
               </a>
               <a
-                class="transition-all-ease duration-75 hover:text-slate-500"
+                class="transition-all-ease-in-out duration-75 hover:text-[#A13DEB]"
                 href="#"
               >
                 <li>Upgrade</li>
@@ -58,6 +62,72 @@
           <img src="./assets/unsplash_X6Uj51n5CE8.png" alt="" />
         </div>
       </header>
+
+      <main class="p-[60px]">
+        <div>
+          <p class="font-light">2021 | PG-13 | 2h 28m</p>
+          <h1 class="text-6xl mt-2 font-medium">
+            SPIDER-MAN: <br />
+            NO WAY HOME
+          </h1>
+          <h2 class="font-light text-xl py-3">Action | Adventure | Fantasy</h2>
+          <div class="flex items-center">
+            <img
+              class="w-[2.5rem]"
+              src="./assets/IMDB_Logo_2016 1.png"
+              alt="logo imdb"
+            />
+            <h2 class="px-3 text-lg">8.5</h2>
+          </div>
+          <button
+            class="p-3 mt-4 flex items-center text-sm border-[1px] rounded-xl transition-all-ease-in-out duration-75 hover:border-[#A13DEB]"
+            type="submit"
+          >
+            <ion-icon
+              class="px-2 text-xl transition-all-ease-in-out duration-75 hover:text-[#A13DEB]"
+              name="play-circle-outline"
+            ></ion-icon
+            >Watch Now
+          </button>
+        </div>
+      </main>
+
+      <section class="px-[60px]">
+        <div>
+          <h2 class="text-lg">Popular Collections</h2>
+          <div class="flex flex-row py-4">
+            <ul class="flex gap-5">
+              <a href="#">
+                <li><img src="./assets/01.png" alt="Peacemaker" /></li>
+              </a>
+              <a href="#">
+                <li><img src="./assets/2.png" alt="Euphoria" /></li>
+              </a>
+              <a href="#">
+                <li><img src="./assets/3.png" alt="Drive my car" /></li>
+              </a>
+              <a href="#">
+                <li><img src="./assets/4.png" alt="Dune" /></li>
+              </a>
+              <a href="#">
+                <li><img src="./assets/5.png" alt="La Casa De Papel" /></li>
+              </a>
+              <a href="#">
+                <li><img src="./assets/6.png" alt="Tick, tick... BOOM!" /></li>
+              </a>
+            </ul>
+          </div>
+        </div>
+      </section>
     </div>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
   </body>
 </html>
