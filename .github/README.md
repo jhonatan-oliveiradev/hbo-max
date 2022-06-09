@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Em construção
+[Em construção](https://hbo-max-omega.vercel.app/)
 
 ## 🎨 Inspiração:
 
