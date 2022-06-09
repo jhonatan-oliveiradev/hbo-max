@@ -71,7 +71,8 @@
     "yaml": "^1.10.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vercel build"
   },
   "keywords": [],
   "author": "Jhonatan Oliveira",
