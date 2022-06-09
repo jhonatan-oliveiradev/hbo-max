@@ -32,11 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### HTML5
 
+### JavaScript
+
 ### [Tailwind CSS](https://tailwindcss.com/)
 
 ## 🚧 Projeto:
 
-[Em construção](https://hbo-max-omega.vercel.app/)
+[Confira aqui](https://hbo-max-omega.vercel.app/)
 
 ## 🎨 Inspiração:
 
