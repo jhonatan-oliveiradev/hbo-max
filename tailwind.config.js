@@ -2,13 +2,10 @@ module.exports = {
   content: ["./**/*.html"],
   theme: {
     extend: {
-      colors: {
-        brand: "#8257e6",
-      },
-      fontFamily: {
-        sans: ["Lexend Deca", "sans-serif"],
+      backgroundImage: {
+        "spider-man": "url('/assets/background.jpg)",
       },
     },
-    plugins: [],
   },
+  plugins: [],
 };
