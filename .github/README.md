@@ -12,8 +12,8 @@
 
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=b13cff&labelColor=5822b4" alt="License" />
-  <img src="https://img.shields.io/github/forks/birobirobiro/live-twitch-lp-gpt3?label=forks&message=MIT&color=b13cff&labelColor=5822b4" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/birobirobiro/live-twitch-lp-gpt3?label=stars&message=MIT&color=b13cff&labelColor=5822b4" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/jhonatan-oliveiradev/hbo-max?label=forks&message=MIT&color=b13cff&labelColor=5822b4" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/jhonatan-oliveiradev/hbo-max?label=stars&message=MIT&color=b13cff&labelColor=5822b4" alt="Stars" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Inspiração:
 
-Figma: https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community)
+Figma: [Protótipo](<https://www.figma.com/file/2A51gQJCk5V6LxcIh2en0b/HBO-Max-Redesign-Web-App-(Community)>).
 
 ## 📝 Licença
 
